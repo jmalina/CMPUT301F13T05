@@ -8,3 +8,5 @@ Team Members (Please add your name members!):
 Joel Malina (jmalina)
 e-mail: jmalina@ualberta.ca
 
+Chris Pavlicek (cpavlice)
+E-mail: cpavlice@ualberta.ca
